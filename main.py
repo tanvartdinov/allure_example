@@ -36,3 +36,7 @@ def factorial(num):
 # test_function(summarize, 12, 5, 7)
 # test_function(summarize, 7, 0, 7)
 # test_function(summarize, 8, 1, 7)
+
+
+if __name__ == '__main__':
+    print('main')
